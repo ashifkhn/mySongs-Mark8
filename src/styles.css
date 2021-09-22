@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.head {
+  text-align: center;
+}
+
+.body {
+  width: 90vw;
+  margin: 0 auto;
+  color: #064e3b;
+  background-color: #6ee7b7;
+}
